@@ -16,8 +16,11 @@ I built this project in collaboration with Jakub Klim. Together, we handled ever
 ## Dashboard Previews
 
 ### 1. Main Dashboard - Teams Overview
+
 <img width="655" height="368" alt="1" src="https://github.com/user-attachments/assets/6967e28c-7df9-4bcb-af2c-c440fe8a9149" />
+
 ### Main Dashboard - Team Filter applied
+
 <img width="654" height="368" alt="2" src="https://github.com/user-attachments/assets/f226f559-8cf4-4318-ac7b-32119571f681" />
 
 
